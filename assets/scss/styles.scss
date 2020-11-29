@@ -88,6 +88,13 @@ img {
 }
 
 /*===== CLASS CSS ===== */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .section-title {
   position: relative;
   font-size: var(--h2-font-size);
